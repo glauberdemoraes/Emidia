@@ -1,0 +1,6 @@
+{
+  "name": "Emedia - Marketing e Vendas para Lançamentos Imobiliários",
+  "description": "Sistema completo para incorporadoras e loteadoras: Branding, Performance e Atendimento com IA para lançamentos imobiliários.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
